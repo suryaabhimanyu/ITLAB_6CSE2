@@ -1,0 +1,25 @@
+body{
+ background-image:url("/home/itsec2/Pictures/sidharth malhotra.png");
+background-repeat:no-repeat;
+}
+h1,h2,h3{
+color:#36c;
+font-weight:bolder;
+letter-spacing:.0em;
+margin-bottom:1em;
+text-transform:uppercase;
+border-style:solid;
+}
+
+#redtxt{color:orange;
+font-family:lucida handwriting;
+text-decoration:overline;
+font-style:italic;
+font-size:50px;}
+text-shadow:2px 2px #ff0000;
+.bluetxt{color:blue;
+text-align:right;}
+a.redtxt:visited{color:red;}
+a.bluetxt:visited{color:green}
+a.largesize:hover{font-size:50pt;
+a.act:active{color:green;}

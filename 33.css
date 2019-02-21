@@ -1,0 +1,43 @@
+
+body
+{
+background-image:url("/home/itsec2/Pictures/sidharth malhotra.png");
+    background-repeat:repeat-y;
+    
+img {
+float:right;
+}
+div{
+padding-top:5px;
+padding-right:1000px;
+padding-bottom:50px;
+padding-left:30px;
+}
+div
+{
+width:50px;
+height:30px;
+background-color:blue;
+}
+div
+{
+width:300px;
+border:10px solid green;
+padding:50px;
+margin:350px;
+}
+li {
+display:inline;
+}
+span{
+display:block;
+}
+a {
+display:block;
+}
+p.a {
+color:blue;
+}
+h1.paral {
+color:pink;
+}

@@ -1,0 +1,70 @@
+<style type="text/css">
+
+body{
+       background-image:url("/home/itsec2/Pictures/sidharth malhotra.png");
+       background-repeat:no-repeat;
+       }
+#redtxt{color:red;
+font-family:Times new roman;
+font-style:italic;
+text-decoration:line-through;
+font-size:50px;
+text-transform:uppercase;
+border-style:double;
+margin-bottom:1em;
+text-shadow:2px 5px 2px #0000ff;
+}
+p.one
+{
+border-style:solid;
+border-color:red green blue orange;
+border-style:inset;
+border-left:6px solid red;
+background-color:green;
+margin-left:25px 50px 75px 100px;
+}
+div
+{
+width:300px;
+margin:auto;
+border:1px solid red;
+}
+div
+{
+padding-top:50px;
+padding-right:30px;
+padding-bottom:50px;
+padding-left:80px;
+}
+div
+{
+width:300px;
+height:auto;
+padding:25px;
+}
+span.a{
+display:inline;/*the default for span*/
+width:100px;
+height:100px;
+padding:5px;
+border:1px solid blue;
+background-color:yellow;
+}
+span.b{
+display:inline-block;
+width:100px;
+height:100px;
+padding:5px;
+border:1px solid blue;
+background-color:yellow;
+}
+span.c{
+display:block;
+width:100px;
+height:100px;
+padding:5px;
+border:1px solid blue;
+background-color:yellow;
+}
+</style>
+
